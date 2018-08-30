@@ -1,0 +1,16 @@
+﻿  save_file.cpp
+f:\ffmpeg-3.4-win64-dev\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+save_file.obj : error LNK2019: 无法解析的外部符号 _av_strerror，该符号在函数 "int __cdecl openInput(void)" (?openInput@@YAHXZ) 中被引用
+save_file.obj : error LNK2019: 无法解析的外部符号 _av_dict_set，该符号在函数 "int __cdecl openInput(void)" (?openInput@@YAHXZ) 中被引用
+save_file.obj : error LNK2019: 无法解析的外部符号 _avformat_alloc_context，该符号在函数 "int __cdecl openInput(void)" (?openInput@@YAHXZ) 中被引用
+save_file.obj : error LNK2019: 无法解析的外部符号 _avformat_open_input，该符号在函数 "int __cdecl openInput(void)" (?openInput@@YAHXZ) 中被引用
+save_file.obj : error LNK2019: 无法解析的外部符号 _avformat_find_stream_info，该符号在函数 "int __cdecl openInput(void)" (?openInput@@YAHXZ) 中被引用
+save_file.obj : error LNK2019: 无法解析的外部符号 _av_gettime，该符号在函数 "int __cdecl interrupt_cb(void *)" (?interrupt_cb@@YAHPAX@Z) 中被引用
+swscale.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+avcodec.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+avutil.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+avformat.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+avfilter.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+avdevice.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+swresample.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+c:\users\福义\documents\visual studio 2017\Projects\ffmpeg-master1\Debug\ffmpeg-master1.exe : fatal error LNK1120: 6 个无法解析的外部命令

@@ -1,0 +1,8 @@
+﻿  save_file.cpp
+f:\ffmpeg-3.4-win64-dev\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\福义\documents\visual studio 2017\projects\ffmpeg-master1\ffmpeg-master1\save_file.cpp(44): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  c:\users\福义\documents\visual studio 2017\projects\ffmpeg-master1\ffmpeg-master1\save_file.cpp(44): note: 占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+  c:\users\福义\documents\visual studio 2017\projects\ffmpeg-master1\ffmpeg-master1\save_file.cpp(44): note: 缺失的可变参数 1 为格式字符串“%s”所需
+c:\users\福义\documents\visual studio 2017\projects\ffmpeg-master1\ffmpeg-master1\save_file.cpp(80): warning C4018: “<”: 有符号/无符号不匹配
+  ffmpeg-master1.vcxproj -> c:\users\福义\documents\visual studio 2017\Projects\ffmpeg-master1\x64\Debug\ffmpeg-master1.exe
+  ffmpeg-master1.vcxproj -> c:\users\福义\documents\visual studio 2017\Projects\ffmpeg-master1\x64\Debug\ffmpeg-master1.pdb (Partial PDB)
